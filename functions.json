@@ -1,0 +1,20 @@
+{
+    "allowCustomDataForDataTypeAny": true,
+    "functions": [
+        {
+            "description": "Получить версию объекта.",
+            "id": "VERSION",
+            "name": "VERSION",
+            "parameters": [
+                {
+                    "description": "имя объекта.",
+                    "name": "object",
+                    "type": "string"
+                }
+            ],
+            "result": {
+                "type": "string"
+            }
+        }
+    ]
+}
