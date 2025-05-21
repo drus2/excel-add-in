@@ -2,15 +2,6 @@
     "allowCustomDataForDataTypeAny": true,
     "functions": [
         {
-            "description": "Функция для проверки версии загруженного эдд-ина.",
-            "id": "TEST",
-            "name": "TEST",
-            "parameters": [],
-            "result": {
-                "type": "string"
-            }
-        },
-        {
             "description": "Получить версию объекта.",
             "id": "VERSION",
             "name": "VERSION",
