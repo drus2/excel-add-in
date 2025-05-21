@@ -1,6 +1,15 @@
 ﻿/* global Version */
 
 /**
+ * Функция для проверки версии загруженного эдд-ина.
+ * @customfunction Test
+ * @returns {string} версия эдд-ина.
+ */
+export function Test() {
+  return "1";
+}
+
+/**
   * Получить версию объекта.
   * @customfunction
   * @param {string} object имя объекта.
